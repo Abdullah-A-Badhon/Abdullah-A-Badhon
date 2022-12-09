@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdullah A. Badhon
 <p> <strong> Welcome To My Personal GitHub Profile. My Self Badhon. I Am 
-  MERN Stack & Blockchain Developer. I Love To Learn 
+  MERN StackDeveloper. I Love To Learn 
   Something New & Teaching Someone. If You Want To Contact 
   Me Then Just Knock Me Here
   https://www.linkedin.com/in/abdullah-a-badhon/ </strong> </p>
